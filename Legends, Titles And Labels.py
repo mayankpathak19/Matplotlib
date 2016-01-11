@@ -1,3 +1,5 @@
+#Draws Legends, Titles and Labels using matplotlib
+
 import matplotlib.pyplot as plt
 
 x = [1, 2, 3]
