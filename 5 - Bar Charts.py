@@ -1,3 +1,5 @@
+#Draws bar charts using matplotlib
+
 import matplotlib.pyplot as plt
 
 x = [2, 4, 6, 8, 10]
