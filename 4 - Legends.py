@@ -1,4 +1,4 @@
-#Draws Legends, Titles and Labels using matplotlib
+#Draws Legends using matplotlib
 
 import matplotlib.pyplot as plt
 
