@@ -1,4 +1,4 @@
-#Draws labels for the axes using matplotlib
+#Draws Labels for the axes using matplotlib
 
 import matplotlib.pyplot as plt
 
