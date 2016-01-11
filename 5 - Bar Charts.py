@@ -1,4 +1,4 @@
-#Draws bar charts using matplotlib
+#Draws Bar Charts using matplotlib
 
 import matplotlib.pyplot as plt
 
