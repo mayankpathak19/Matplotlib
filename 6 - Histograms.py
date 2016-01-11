@@ -1,4 +1,4 @@
-# Draws bar charts using matplotlib
+# Draws Histograms using matplotlib
 
 import matplotlib.pyplot as plt
 
