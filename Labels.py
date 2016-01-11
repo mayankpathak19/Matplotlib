@@ -7,6 +7,6 @@ x = [1, 2, 3]
 y = [5, 7, 4]
 
 plt.plot(x, y)
-plt.xlabel('X')
-plt.ylabel('Y')
+plt.xlabel('X Axis')
+plt.ylabel('Y Axis')
 plt.show()
