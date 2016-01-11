@@ -1,4 +1,4 @@
-#Draws labels for the axes using matplotlib
+#Draws Title for the graph using matplotlib
 
 import matplotlib.pyplot as plt
 
