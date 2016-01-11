@@ -1,3 +1,5 @@
+#Draws a sample graph using matplotlib
+
 import matplotlib.pyplot as plt
 
 
