@@ -1,4 +1,10 @@
-# Spines and Horizontal Lines
+# Spines and Horizontal Lines.
+# To view the current availbe styles in Matplotlib type in print(plt.styles.availble).
+# To use a predefined style firstly do from matplotlib import style, then type in style.use(style name).
+# To add your own style to the predefined list or to edit a predefined style
+# first find out the place where matplotlib is installed by typing print(plt.__file__).
+# In that directory go in 'mpl-data/stylelib/'.
+# The above directory contains the availble styles open and edit it or create a new one with the same extension.
 
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
