@@ -53,7 +53,7 @@ def graph_data(stock):
     ax1.annotate('Big News!', (date[8], high_price[11]), xytext=(0.8, 0.9), textcoords='axes fraction',
                  arrowprops=dict(facecolor='grey', color='grey'))
     font_dict = {'family': 'serif', 'color': 'darkred', 'size': 15}
-    ax1.text(date[10], close_price[1], 'EBAY Prices', fontdict=font_dict)
+    ax1.text(date[10], close_price[1], 'Stock Prices', fontdict=font_dict)
     plt.xlabel('Date')
     plt.ylabel('Price')
     plt.title(stock)
